@@ -16,7 +16,7 @@ This project extends computational thinking frameworks to multi-modal data scien
 ### 1. [Spider2-V Benchmark](https://github.com/xlang-ai/Spider2-V)
 The evaluation benchmark containing 494 real-world data science tasks across 20 enterprise applications.
 
-### 2. [CT-Engine](https://github.com/your-username/CT-Engine)
+### 2. [Phase 1: CT-Engine](https://github.com/your-username/CT-Engine)
 Phase 1: CT-enhanced agent implementing hierarchical decomposition, pattern libraries, and ReAct reasoning for multi-modal workflows.
 
 ### 3. [Phase 2: Fine-Tuning](https://github.com/your-username/ct-spider2v-phase2)
