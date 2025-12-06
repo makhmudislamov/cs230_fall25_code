@@ -9,7 +9,7 @@ This project extends computational thinking (CT) frameworks to multi-modal data 
 2. Phase 1 CT-Engine outputs (75 successful executions)
 3. Average task execution: ~8-10 minutes per task
 
-**For TAs:** Code is provided for architecture review. Execution requires infrastructure not included per class policy.
+Code is provided for architecture review. Per class policy, required infrastructure for execution and data are not included.
 
 ## Repository Links
 
