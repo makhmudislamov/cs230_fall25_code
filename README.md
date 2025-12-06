@@ -1,6 +1,6 @@
 # Computational Thinking for Multi-Modal Data Workflows: GUI Navigation and Knowledge Distillation
 
-This project extends computational thinking frameworks to multi-modal data science workflows requiring GUI navigation and cross-tool orchestration.
+This project extends computational thinking (CT) frameworks to multi-modal data science workflows requiring GUI navigation and cross-tool orchestration.
 
 ## Prerequisites & Execution Requirements
 
