@@ -19,7 +19,7 @@ The evaluation benchmark containing 494 real-world data science tasks across 20 
 ### 2. [Phase 1: CT-Engine](https://github.com/Sukhrobjon/CT-Engine)
 Phase 1: CT-enhanced agent implementing hierarchical decomposition, pattern libraries, and ReAct reasoning for multi-modal workflows.
 
-### 3. [Phase 2: Fine-Tuning](https://github.com/your-username/ct-spider2v-phase2)
+### 3. [Phase 2: Fine-Tuning](https://github.com/makhmudislamov/fine_tuning_for_cs230)
 Phase 2: Knowledge distillation via QLoRA fine-tuning of Qwen2.5-Coder-7B on successful CT executions.
 
 ## Paper
